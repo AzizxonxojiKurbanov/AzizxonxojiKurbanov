@@ -1,16 +1,70 @@
-## Hi there 👋
+Hi, I'm Azizxon
 
-<!--
-**AzizxonxojiKurbanov/AzizxonxojiKurbanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer from Uzbekistan
 
-Here are some ideas to get you started:
+### Android
+- Kotlin
+- Jetpack Compose
+- MVVM & MVI
+- Clean Architecture
+- Coroutines & Flow
+- Navigation Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dependency Injection
+- Hilt
+
+### Networking
+- Retrofit
+- OkHttp
+
+### Local Storage
+- Room Database
+- DataStore
+
+### Firebase
+- Firebase/ Firestore
+
+### Camera & ML
+- CameraX
+- ML Kit
+
+### Background Processing
+- WorkManager
+- Foreground Services
+- Broadcast Receivers
+
+## Currently Learning
+- Advanced Android Development
+- Flutter
+
+
+## Featured Projects
+
+📱 Mobile Banking App
+
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- Retrofit
+- Hilt
+- Voyager Navigation
+- Coroutines + Flow
+
+💊 Drug Reminder App
+
+- Room
+- CameraX
+- Notification
+- MVVM
+- Work Manager
+
+☁️ Weather App
+- OpenWeather API
+- MVVM
+- Coroutines
+
+💱 Exchange Currency
+- Retrofit
+- Coroutine
+- MVVM
